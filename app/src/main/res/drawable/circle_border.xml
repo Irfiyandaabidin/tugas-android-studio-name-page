@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000" /> <!-- Warna latar belakang kosong (transparan) -->
+    <corners android:radius="50dp" /> <!-- Radius corner setengah dari lebar/tinggi -->
+</shape>

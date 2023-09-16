@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">IRFIYANDA ABIDIN</string>
+    <string name="nim">NIM : 21.01.4623</string>
+    <string name="prodi">Prodi : D3 Teknik Informatika</string>
+    <string name="address">Address : Pemalang, Center Java</string>
+    <string name="img_profile">profile</string>
+</resources>
